@@ -2,13 +2,18 @@
 
 Hello from ACM BPDC
 
-Students implemented all the ML Essentials knowledge to work in "Kaggle Konquest" 💻   - the coolest Kaggle competition hitting on March 8th! 🎉
+Introducing **Kaggle Konquest 2024** 💻 - the coolest Kaggle competition hitting on March 8th! 🎉
 
-The week-long competition, was sponsored by Intel and winners won hefty cash prizes. 💰
+The week-long competition, is sponsored by Intel with cool cash prizes and a chance to prove your ML and AI skills!
 
-They dived deep into datasets, showcasing their analytical prowess at every turn📊
+Dive deep into datasets, and showcase analytical prowess at every turn 📊
 
 🗓️ Competition Duration: 8th March 2024,(Friday)- 14th March 2024(Thursday)
+
 🤑 Prizes : AED 250, 200, 100 
+
+<center>
+[**Registration Link**](https://forms.gle/aYX3Frb1FL4iXfXH8)
+</center>
 
 Only one motto to stand by! Enter, Excel, Earn - it's that simple! 🚀

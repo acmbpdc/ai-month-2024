@@ -1,6 +1,6 @@
-# Project Name
+# AI Month
 
-Project Information
+Archive of docs used during AI Month 2024
 
 ## Setup Guide
 
